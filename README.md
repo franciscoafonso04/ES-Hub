@@ -11,10 +11,10 @@ You can find details about our app, from a high-level vision to low-level implem
 
 #### ES Project made by:
 
-- Alexandre Ramos (up202208028@up.pt)
-- Filipa Fidalgo (up202208039@up.pt)
-- Francisco Afonso (up202208115@up.pt)
-- Leonor Couto (up202205796@up.pt)
+- Alexandre Ramos (up202208028)
+- Filipa Fidalgo (up202208039)
+- Francisco Afonso (up202208115)
+- Leonor Couto (up202205796)
 
 ## Vision Statement
 
