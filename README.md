@@ -1,6 +1,6 @@
 # ES-Hub
 
-Welcome to the **ES-Hub**, a repository containing our projects for the **Software Engineering (Engenharia de Software)** course. Here, you'll find information about Maze, an app the allows users to check the location of the bus they are waiting for, more accurately using users' contributions.
+Welcome to the **ES-Hub**, a repository containing my project for the **Software Engineering (Engenharia de Software)** course. Here, you'll find information about Maze, an app the allows users to check the location of the bus they are waiting for, more accurately using users' contributions.
 
 ## Project - MAZE (Grade: 18.0)
 
